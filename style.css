@@ -1096,6 +1096,12 @@ body{
 
   .form-heading {
     font-size: 3rem;
+    margin: 0 auto;
+
+  }
+
+  .section-5 > .section-heading{
+    font-size: 2.5rem;
   }
 
    /* .contact-form {
@@ -1107,6 +1113,7 @@ body{
     left: 2.5rem;
     letter-spacing: 1rem;
     font-size: 3rem;
+
   }
 
   .about-me-text span{
@@ -1132,7 +1139,9 @@ body{
    
   .form-submit-btn{
     width: 15rem;
-    padding-right: 2rem;
+    margin: 0 auto;
+
+   
   }
 
   form{
