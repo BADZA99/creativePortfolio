@@ -1107,7 +1107,7 @@ body{
   }
 
   .section-heading{
-    left: 5rem;
+    left: 3rem;
     letter-spacing: 1rem;
   }
 
@@ -1116,7 +1116,7 @@ body{
   }
 
   .project{
-    width: 35rem;
+    width: 30rem;
   }
 
   .job{
