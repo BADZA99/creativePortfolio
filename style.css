@@ -1095,11 +1095,11 @@ body{
   }
 
   .form-heading {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 
    .contact-form {
-    width: 25rem;
+    width: 30rem;
   }
 
 
@@ -1130,7 +1130,7 @@ body{
   }
    
   .form-submit-btn{
-    width: 10rem;
+    width: 20rem;
   }
 
 } 
