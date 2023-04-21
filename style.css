@@ -1050,7 +1050,7 @@ body{
   }
 
   .contact-form-input {
-    width: 40rem;
+    width: 20rem;
   }
 
   .slideshow {
@@ -1121,6 +1121,14 @@ body{
 
   .job{
     display: block;
+  }
+
+  .form-wrapper{
+    width: 25rem;
+  }
+
+  .contact-form-textarea{
+    width: 20rem;
   }
 
 
