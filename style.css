@@ -1096,7 +1096,7 @@ body{
 
   .form-heading {
     font-size: 3rem;
-    margin-left:5rem;
+    margin-left:7rem;
 
   }
 
@@ -1115,6 +1115,7 @@ body{
     left: 2.5rem;
     letter-spacing: 1rem;
     font-size: 3rem;
+    margin-top: 1rem;
 
   }
 
