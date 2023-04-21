@@ -1126,18 +1126,15 @@ body{
     width: 40rem;
   }
 
-  .contact-form-textarea{
-    width: 35rem;
-    margin-left: 3rem;
+  .contact-form-input{
+    width: 25rem;
   }
    
   .form-submit-btn{
-    width: 20rem;
+    width: 15rem;
   }
 
- input{
-  width: 20rem;
- }
+
 
 } 
 
