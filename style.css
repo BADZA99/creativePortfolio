@@ -1096,7 +1096,7 @@ body{
 
   .form-heading {
     font-size: 3rem;
-    margin-left:auto;
+    margin-right:10rem;
 
   }
 
@@ -1142,8 +1142,6 @@ body{
   .form-submit-btn{
     width: 15rem;
     margin: 0 auto;
-
-   
   }
 
   form{
