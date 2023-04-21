@@ -1102,13 +1102,11 @@ body{
     width: 25rem;
   }
 
-  input{
-    width: 10rem;
-  }
 
   .section-heading{
     left: 3rem;
     letter-spacing: 1rem;
+    font-size: 3rem;
   }
 
   .about-me-text span{
@@ -1124,13 +1122,16 @@ body{
   }
 
   .form-wrapper{
-    width: 25rem;
+    width: 35rem;
   }
 
   .contact-form-textarea{
-    width: 20rem;
+    width: 30rem;
   }
-
+   
+  .form-submit-btn{
+    width: 10rem;
+  }
 
 } 
 
