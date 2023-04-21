@@ -1104,7 +1104,7 @@ body{
 
 
   .section-heading{
-    left: 3rem;
+    left: 2.5rem;
     letter-spacing: 1rem;
     font-size: 3rem;
   }
@@ -1122,15 +1122,19 @@ body{
   }
 
   .form-wrapper{
-    width: 35rem;
+    width: 40rem;
   }
 
   .contact-form-textarea{
-    width: 30rem;
+    width: 35rem;
   }
    
   .form-submit-btn{
     width: 20rem;
+  }
+
+  .contact-form-input {
+    width: 30rem;
   }
 
 } 
