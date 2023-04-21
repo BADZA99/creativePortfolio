@@ -1062,7 +1062,7 @@ body{
   }
 }
 
-@media (max-width: 400px) {
+ @media (max-width: 400px) {
   html {
     font-size: 35%;
     height: auto;
@@ -1098,16 +1098,39 @@ body{
     font-size: 5rem;
   }
 
-  .projects{
-    width: auto;
+   .contact-form {
+    width: 25rem;
   }
-}
 
-@media (max-width: 321px){
+  input{
+    width: 10rem;
+  }
 
-  /* body{
+  .section-heading{
+    left: 5rem;
+    letter-spacing: 1rem;
+  }
+
+  .about-me-text span{
+    font-size: 4rem;
+  }
+
+  .project{
+    width: 35rem;
+  }
+
+  .job{
+    display: block;
+  }
+
+
+} 
+
+/* @media (max-width: 400px){
+
+  body{
     background-size: cover;
-  } */
+  }
   .contact-form {
     width: 25rem;
   }
@@ -1140,5 +1163,5 @@ body{
 
 
 
-}
+} */
 /* End of Responsive */
