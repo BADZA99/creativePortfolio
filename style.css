@@ -1103,7 +1103,7 @@ body{
   }
 }
 
-@media (max-width: 280px){
+@media (max-width: 321px){
 
   /* body{
     background-size: cover;
@@ -1117,7 +1117,7 @@ body{
   }
 
   .section-heading{
-    left: 2rem;
+    left: 5rem;
     letter-spacing: 1rem;
   }
 
