@@ -1096,12 +1096,14 @@ body{
 
   .form-heading {
     font-size: 3rem;
-    margin: 0 auto;
+    margin-left:auto;
 
   }
 
   .section-5 > .section-heading{
     font-size: 2.5rem;
+    letter-spacing: 0.6rem;
+
   }
 
    /* .contact-form {
