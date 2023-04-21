@@ -17,6 +17,11 @@ html {
   scroll-behavior: smooth;
 }
 
+body{
+   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(images/bg.jpg) center no-repeat;
+}
+
 .center {
   display: flex;
   justify-content: center;
@@ -191,7 +196,7 @@ html {
 /* Page BG */
 .page-bg {
   position: fixed;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url(images/bg.jpg) center no-repeat;
@@ -385,8 +390,8 @@ html {
 }
 
 .main-circle {
-  width: 55rem;
-  height: 55rem;
+  width: 50rem;
+  height: 50rem;
   position: absolute;
   overflow: hidden;
   border-radius: 50%;
@@ -433,6 +438,7 @@ html {
 /* Section 2 */
 .section-2 {
   position: relative;
+  height: 100%;
   padding: 10rem 10rem 15rem 10rem;
 }
 
@@ -1051,10 +1057,11 @@ html {
 @media (max-width: 400px) {
   html {
     font-size: 35%;
+    height: auto;
   }
 
   .logo {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     top: 13rem;
     left: 50%;
     transform: translateX(-50%);
@@ -1066,11 +1073,12 @@ html {
   }
 
   .main-circle {
-    width: 38rem;
+    width: 30rem;
+    height: 30rem;
   }
 
   .main-circle:hover {
-    width: 42rem;
+    width: 35rem;
   }
 
   .main-circle img {
@@ -1080,6 +1088,11 @@ html {
 
   .form-heading {
     font-size: 5rem;
+  }
+
+  .projects{
+    width: auto;
+
   }
 }
 /* End of Responsive */

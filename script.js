@@ -340,7 +340,7 @@ const last4Btns=[];
       
     }
   }
-  console.log(last4Btns);
+  // console.log(last4Btns);
 let showHideBool = true;
 
 const showProjects = (project, i) => {
