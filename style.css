@@ -526,6 +526,15 @@ body{
   transition: opacity 0.5s;
 }
 
+.project-title{
+  position: absolute;
+  color: #fff;
+  font-size: 2rem;
+  left: 8.5rem;
+  top: -2.5rem;
+  text-transform: uppercase;
+}
+
 /* bouton sous les projets */
 .goto{
   position: relative;
