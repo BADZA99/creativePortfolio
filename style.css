@@ -530,9 +530,11 @@ body{
   position: absolute;
   color: #fff;
   font-size: 2rem;
-  left: 8.5rem;
   top: -2.5rem;
   text-transform: uppercase;
+  width: 100%;
+  text-align: center;
+  /* border: 1px solid  crimson; */
 }
 
 /* bouton sous les projets */
